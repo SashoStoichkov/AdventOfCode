@@ -14,4 +14,4 @@ with open("input.txt") as f:
 
     print("Part 1:", calories[-1])  # max calories
 
-    print("Part 2:", calories[-1] + calories[-2] + calories[-3]) # top 3
+    print("Part 2:", calories[-1] + calories[-2] + calories[-3])  # top 3
